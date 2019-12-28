@@ -1,0 +1,4 @@
+initialization
+cols
+	^ cols
+	

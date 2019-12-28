@@ -1,0 +1,4 @@
+initialization
+quadTree
+	^ quadTree 
+	

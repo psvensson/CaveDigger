@@ -6,10 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"rows",
-		"cols",
-		"quadTree"
+		"walkerDirection",
+		"walkerPosition"
 	],
-	"name" : "DungeonGeneratorMap",
+	"name" : "CaveWalker",
 	"type" : "normal"
 }

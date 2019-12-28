@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "GlamorousAuthor 12/27/2019 17:49",
+	"super" : "Object",
+	"category" : "DungeonGenerator-Core",
+	"classinstvars" : [
+		"roomTypes"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"quadTree",
+		"walker",
+		"left",
+		"right",
+		"top",
+		"bottom",
+		"dungeon"
+	],
+	"name" : "CaveDigger",
+	"type" : "normal"
+}
